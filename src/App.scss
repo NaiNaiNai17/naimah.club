@@ -1,0 +1,31 @@
+
+a{
+  text-decoration: none;
+}
+.nav-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+ 
+
+}
+li {
+  list-style: none;
+}
+
+.about-container{
+  display: flex;
+  padding: 20px;
+  div{
+    width: 400px;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
