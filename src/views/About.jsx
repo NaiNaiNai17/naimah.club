@@ -15,21 +15,12 @@ const About = () => {
               
               <div className="skilled">
                 
-                <ul><h3>Skills</h3>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Javascript</li>
-                <li>Node JS</li>
-                <li>Express</li>
-                <li>React JS</li>
-                <li>MySQL</li>
-                <li>Oauth</li>
-                <li>Rest APIs</li>
-                </ul>
-                 <ul>
+                <h3>Skills</h3>
+                <p>HTML CSS Javascript Node JS Express React JS MySQL Oauth Rest APIs</p>
+                
                 <h3>Learning</h3>
                 <li>Database Architecture</li>
-                <li>Cloud Architecture</li></ul>
+                <li>Cloud Architecture</li>
             </div> 
 
             

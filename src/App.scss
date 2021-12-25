@@ -28,7 +28,7 @@ a{
 li {
   list-style: none;
 }
-.home-container{
+.project-container1{
   color:maroon;
   margin-left: 3%;
   margin-top: 4%;
@@ -46,6 +46,22 @@ li {
   }
 }
 
+.project-container2{
+  color:maroon;
+  margin-left: 3%;
+  margin-top: 4%;
+  padding: 3%;
+  border: azure 2px solid;
+  width: 45%;
+  a:hover{
+    background-color: rgb(122, 216, 216);
+    border: azure 2px solid;
+    padding: 2%;
+    border-radius: 8%;
+    opacity: 0.5;
+
+  }
+}
 .about-container{
   display: flex;
   flex-wrap: wrap;

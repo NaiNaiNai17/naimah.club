@@ -1,7 +1,7 @@
 import React from 'react'
 import {BrowserRouter, Routes, Route, Redirect} from 'react-router-dom'
 import Header from '../partials/Header'
-import Home from '../views/Home'
+import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 const MainRouter = () => {
@@ -10,8 +10,8 @@ const MainRouter = () => {
        <Header/>
        <main>
            <Routes>
-               <Route path="/" exact element={<Home/>}/>
-               <Route path="/about"  exact element={<About/>}/>
+              <Route path="/"  exact element={<Projects/>}/> 
+              <Route path="/about" element={<About/>}/>
                <Route path="/contact"  element={<Contact/>}/>
            </Routes>
        </main>
