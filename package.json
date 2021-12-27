@@ -2,7 +2,7 @@
   "name": "naiFowler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "naimah.club",
+  "homepage": "https://github.com/NaiNaiNai17/naimah.club",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -18,13 +18,15 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
-    "deploy": "gh-pages -d build"
+    
   },
   "browserslist": {
     "production": [
