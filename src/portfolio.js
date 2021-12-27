@@ -1,6 +1,6 @@
 const header = {
   homepage: 'github.com',
-  title: '(Nai)mah Fowler',
+  title: 'Nai(mah) Fowler',
 }
 
 const about = {

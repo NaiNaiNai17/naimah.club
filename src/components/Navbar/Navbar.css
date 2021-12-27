@@ -1,17 +1,21 @@
 .nav__list {
-  margin-right: 1rem;
+  /* margin-right: -2rem; */
   display: flex;
   font-size: 1.5em;
 }
 .nav__list-item {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
-
+.nav__theme{
+  margin-right: -2rem;
+  
+}
 .app .nav__hamburger {
   display: none;
 }
 
 .nav__theme {
+  margin-left: 2rem;
   margin-top: 0.4em;
 }
 
