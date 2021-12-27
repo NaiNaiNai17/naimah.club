@@ -1,10 +1,10 @@
 const header = {
   homepage: 'github.com',
-  title: 'Nai',
+  title: '(Nai)mah Fowler',
 }
 
 const about = {
-  name: 'Naimah(Nai) Fowler',
+
   role: 'Software Engineer',
   description:
     `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I can build web apps`,
