@@ -1,19 +1,18 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'github.com',
+  title: 'Nai',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Naimah(Nai) Fowler',
+  role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I can build web apps`,
+    description2: `I bought this domain in 2019 because I wanted to build a resume site. I choose the .club extension because it's open to interpretation. The club is where I have met and/or bonded with some of my best friends. A club can also be a group, or community in which I belong to many.`,
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/nai-fowler/',
+    github: 'https://github.com/nainainai17',
   },
 }
 
@@ -21,51 +20,51 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Story Share App',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      `A story sharing app where users can share public or private stories. Ideally with communities in mind. Like a neighborhood journal.
+       App uses node js, express, handlebars. It implements google auth and email(still working this out) registration auth both using passport.`,
+    stack: ['Node JS', 'Express JS', 'Passport JS','handlebars'],
+    sourceCode: 'https://github.com/NaiNaiNai17/storyShare-a-Kiez-Journal',
+    livePreview: 'https://storyshare-journal.glitch.me/',
   },
   {
-    name: 'Project 2',
+    name: 'Tap Music App',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      `Music sampler with 6 functions. Use keys A-F, Tap keys directly on touchscreen, or use your mouse to play sounds.`,
+    stack: ['Javascript', 'CSS', 'HTML'],
+    sourceCode: 'https://github.com/NaiNaiNai17/Tap-Music-using-Javascript',
+    livePreview: 'https://nainainai17.github.io/Tap-Music-using-Javascript/',
   },
   {
-    name: 'Project 3',
+    name: 'Emoji Finder',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Search for Emoji you want to reflect the moment. Uses react styling components',
+    stack: ['React'],
+    sourceCode: 'https://github.com/NaiNaiNai17/Emoji-Search-Engine-in-react',
+    livePreview: 'https://emoji-search-engine.glitch.me/',
   },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+  
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
   'React',
   'Redux',
   'SASS',
-  'Material UI',
+  'Node JS',
+  'Express JS',
+  'Oauth',
+  'MongoDB',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'noSql',
+  
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'fowler.naimah@gmail.com',
 }
 
 export { header, about, projects, skills, contact }

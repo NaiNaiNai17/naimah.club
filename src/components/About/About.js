@@ -4,27 +4,27 @@ import { about } from '../../portfolio'
 import './About.css'
 
 const About = () => {
-  const { name, role, description, resume, social } = about
+  const { name, role, description,description2, resume, social } = about
 
   return (
     <div className='about center'>
       {name && (
         <h1>
-          Hi, I am <span className='about__name'>{name}.</span>
+          <span className='about__name'>Naimah Fowler</span>
         </h1>
       )}
 
-      {role && <h2 className='about__role'>A {role}.</h2>}
+      {role && <h2 className='about__role'> {role}</h2>}
       <p className='about__desc'>{description && description}</p>
-
+      <p className='about__desc'>{description2 && description2}</p>
       <div className='about__contact center'>
-        {resume && (
+        {/* {resume && (
           <a href={resume}>
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
           </a>
-        )}
+        )} */}
 
         {social && (
           <>

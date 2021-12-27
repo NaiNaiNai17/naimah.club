@@ -1,8 +1,11 @@
 .about {
   flex-direction: column;
   margin-top: 3em;
+ 
 }
-
+.center{
+  margin-left: 1em;
+}
 .about__name {
   color: var(--clr-primary);
 }
