@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.948f1bfa.chunk.css",
-    "main.js": "/static/js/main.7be0859d.chunk.js",
-    "main.js.map": "/static/js/main.7be0859d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f88013a6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f88013a6.js.map",
-    "static/js/2.500db56c.chunk.js": "/static/js/2.500db56c.chunk.js",
-    "static/js/2.500db56c.chunk.js.map": "/static/js/2.500db56c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.948f1bfa.chunk.css.map": "/static/css/main.948f1bfa.chunk.css.map",
-    "static/js/2.500db56c.chunk.js.LICENSE.txt": "/static/js/2.500db56c.chunk.js.LICENSE.txt"
+    "main.css": "/naimah.club/static/css/main.948f1bfa.chunk.css",
+    "main.js": "/naimah.club/static/js/main.7be0859d.chunk.js",
+    "main.js.map": "/naimah.club/static/js/main.7be0859d.chunk.js.map",
+    "runtime-main.js": "/naimah.club/static/js/runtime-main.b68ea486.js",
+    "runtime-main.js.map": "/naimah.club/static/js/runtime-main.b68ea486.js.map",
+    "static/js/2.500db56c.chunk.js": "/naimah.club/static/js/2.500db56c.chunk.js",
+    "static/js/2.500db56c.chunk.js.map": "/naimah.club/static/js/2.500db56c.chunk.js.map",
+    "index.html": "/naimah.club/index.html",
+    "static/css/main.948f1bfa.chunk.css.map": "/naimah.club/static/css/main.948f1bfa.chunk.css.map",
+    "static/js/2.500db56c.chunk.js.LICENSE.txt": "/naimah.club/static/js/2.500db56c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f88013a6.js",
+    "static/js/runtime-main.b68ea486.js",
     "static/js/2.500db56c.chunk.js",
     "static/css/main.948f1bfa.chunk.css",
     "static/js/main.7be0859d.chunk.js"
