@@ -46,7 +46,7 @@ const projects = [
   {
     name: 'Interactive Music Video Tutorial co-writer',
     description:
-      'Search for Emoji you want to reflect the moment. Uses react styling components',
+      `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Oliva Jack`,
     stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
     sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
     livePreview: 'https://interactive-music-video.glitch.me/',
