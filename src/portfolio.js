@@ -7,8 +7,8 @@ const about = {
 
   role: 'Software Engineer',
   description:
-    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I can build web apps.`,
-    description2: `I bought this domain in 2019 because I wanted to build a resume site. I choose the .club extension because it's open to interpretation. The club is where I have met and/or bonded with some of my best friends. A club can also be a group, or community in which I belong to many.`,
+    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at the Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I can build web apps.`,
+    description2: `I bought this domain in 2019 because I wanted to build a resume site. I choose the .club extension because it's open to interpretation. The club is where I have met and/or bonded with some of my best friends. A club can also be a group, or community in which I belong to many. I'm based in Berlin`,
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/nai-fowler/',
@@ -52,6 +52,7 @@ const projects = [
     livePreview: 'https://interactive-music-video.glitch.me/',
   },
 ]
+
 
 const skills = [
   
