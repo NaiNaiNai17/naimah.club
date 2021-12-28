@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'github.com',
+  homepage: 'www.naimah.club',
   title: 'Nai(mah) Fowler',
 }
 
