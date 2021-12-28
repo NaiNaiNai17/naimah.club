@@ -43,6 +43,14 @@ const projects = [
     sourceCode: 'https://github.com/NaiNaiNai17/Emoji-Search-Engine-in-react',
     livePreview: 'https://emoji-search-engine.glitch.me/',
   },
+  {
+    name: 'Interactive Music Video Tutorial co-writer',
+    description:
+      'Search for Emoji you want to reflect the moment. Uses react styling components',
+    stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
+    sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
+    livePreview: 'https://interactive-music-video.glitch.me/',
+  },
 ]
 
 const skills = [
