@@ -7,7 +7,7 @@ const about = {
 
   role: 'Software Engineer',
   description:
-    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at the Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now build web apps.`,
+    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at the Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I build web apps.`,
     description2: `I bought this domain in 2019 because I wanted to build a resume site. I choose the .club extension because it's open to interpretation. The club is where I have met and/or bonded with some of my best friends. A club can also be a group, or community in which I belong to many. I'm based in Berlin`,
   resume: 'https://example.com',
   social: {
@@ -46,7 +46,7 @@ const projects = [
   {
     name: 'Interactive Music Video Tutorial co-writer',
     description:
-      `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Oliva Jack`,
+      `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Olivia Jack`,
     stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
     sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
     livePreview: 'https://interactive-music-video.glitch.me/',
