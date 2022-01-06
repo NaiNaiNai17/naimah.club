@@ -17,7 +17,14 @@ const about = {
 }
 
 const projects = [
-
+  {
+    name: 'Interactive Music Video Tutorial co-writer',
+    description:
+      `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Olivia Jack`,
+    stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
+    sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
+    livePreview: 'https://interactive-music-video.glitch.me/',
+  },
   {
     name: 'Story Share App',
     description:
@@ -42,15 +49,8 @@ const projects = [
     stack: ['React'],
     sourceCode: 'https://github.com/NaiNaiNai17/Emoji-Search-Engine-in-react',
     livePreview: 'https://emoji-search-engine.glitch.me/',
-  },
-  {
-    name: 'Interactive Music Video Tutorial co-writer',
-    description:
-      `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Olivia Jack`,
-    stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
-    sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
-    livePreview: 'https://interactive-music-video.glitch.me/',
-  },
+  }
+ 
 ]
 
 
@@ -75,6 +75,7 @@ const skills = [
 ]
 
 const learning = [
+  'Java',
   'Google Cloud',
   'Docker',
   'GraphQL'
