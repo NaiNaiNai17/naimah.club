@@ -22,7 +22,7 @@ const projects = [
     description:
       `The video tutorial teaches users how to code your own visually creative music video using video, audio, the Hydra livecoding library html, css and javascript. co-written with Olivia Jack`,
     stack: ['Javascript', 'HTML', 'CSS', 'Hydra'],
-    sourceCode: 'https://glitch.com/embed/#!/interactive-music-video',
+    sourceCode: 'https://glitch.com/~interactive-music-video',
     livePreview: 'https://interactive-music-video.glitch.me/',
   },
   {
