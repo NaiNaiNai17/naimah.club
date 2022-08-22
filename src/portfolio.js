@@ -7,7 +7,7 @@ const about = {
 
   role: 'Software Engineer',
   description:
-    `I started coding in 2017 using html, css and some javascript. In 2020 I decided to go full in and began a  full-time 14 month Web Developer course at the Digital Career Institute. Going back to school gave me the opportunity to build a solid foundation in Frontend and Backend Technologies, and now I build web apps.`,
+    `I started coding in 2017 using html, css and javascript. In 2020, I dived head first into school for over a year to give myself time to fully develop my skills. At the moment Backend is where my interests lay, and at DKB Code Factory, I currently work on a backend application using Kotlin and Springboot using Reactive Design`,
     description2: `I bought this domain in 2019 because I wanted to build a resume site. I choose the .club extension because it's open to interpretation. The club is where I have met and/or bonded with some of my best friends. A club can also be a group, or community in which I belong to many. I'm based in Berlin`,
   resume: 'https://example.com',
   social: {
@@ -17,6 +17,12 @@ const about = {
 }
 
 const projects = [
+    {
+    name: 'Backend Developer',
+    description:
+      `Fulltime Backend Developer`,
+    stack: ['Kotlin', 'Spring', 'Reactor'],
+  },
   {
     name: 'Interactive Music Video Tutorial co-writer',
     description:
@@ -55,30 +61,26 @@ const projects = [
 
 
 const skills = [
-  
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'React',
-  'Redux',
-  'SASS',
+  'Kotlin',
+  'Springboot',
+  'Git',
+  'JWT',
+  'Java(can read)',
   'Node JS',
   'Express JS',
-  'MongoDB',
+  'JavaScript',
+  'React',
   'NoSql',
-  'Mongoose',
   'OAuth',
-  'JWT',
-  'Git',
-  
-  
+  'HTML',
+  'CSS', 
 ]
 
 const learning = [
-  'Java',
-  'Google Cloud',
+  'Reactive Design',
+  'Python',
   'Docker',
-  'GraphQL'
+  
 ]
 
 const contact = {
